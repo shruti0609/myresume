@@ -1,0 +1,129 @@
+@import url(https://weloveiconfonts.com/api/?family=entypo|fontawesome);
+[class*="entypo-"]:before {
+  font-family: 'entypo', sans-serif;
+}
+/* fontawesome */
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+}
+.sidenav {
+  height: 100%;
+  width: 25vw;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #A7B4C5;
+  overflow-x: hidden;
+  padding-top: 20px;
+  padding: 2%;
+  text-align: center;
+}
+
+
+
+
+
+
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #000;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: white;
+}
+
+.main {
+  margin-left: 25vw; /* Same as the width of the sidenav */
+  font-size: 25px; /* Increased text to enable scrolling */
+  height: 100vh;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  display: block;
+
+}
+
+.face {
+  width: 70%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.icon {
+  float:left;
+  width: 20px;
+  height: 20px;
+}
+
+
+.social_icons .linkedin:hover{
+			background: #007bb6;
+			color: black;
+			border-top-right-radius: 30px;
+			border-bottom-left-radius: 30px;
+		}
+
+.social_icons .github:hover{
+			background: #007bb6;
+			color: black;
+			border-top-right-radius: 50px;
+			border-bottom-left-radius: 50px;
+		}
+
+
+.about, .education, .projects, .skills{
+  color: black;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.about{
+
+  text-align: center;
+  color: black;
+  background-image: url("background1.jpeg");
+}
+
+.education {
+  font-size: 18px;
+  background-image: url("background2.jpeg"); 
+}
+
+.projects {
+  padding: 5%; 
+  font-size: 18px;
+  background-image: url("background3.jpeg"); 
+}
+
+.skills {
+  font-size: 18px;
+  padding: 5%;
+  background-image: url("background4.jpeg"); 
+}
+.Achievements{
+  
+  color: black;
+   font-size: 18px;
+    padding: 5%;
+  background-image: url("background1.jpeg");
+}
+.Internships{
+  
+  color: black;
+   font-size: 18px;
+    padding: 5%;
+  background-image: url("background4.jpeg");
+}
