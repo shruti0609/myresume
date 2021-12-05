@@ -12,7 +12,7 @@
 	<body>
 		<div class="sidenav">
 			<div >
-				<img src="photo.jpg" alt="Profile" class="face">
+				<img src="shruti.jpg" alt="Profile" class="face">
 				
 			</div>
 			
@@ -51,7 +51,7 @@
 					 <div class="get_social_content">
           <ul class="social_icons horizontal_list">
          
-            <a class="github" href="https://github.com/shruti0609"><span class="entypo-github-circled"></span><span class="visible"></span></a>
+            <a class="github" href="https://shruti0609.github.io/myresume/"><span class="entypo-github-circled"></span><span class="visible"></span></a>
           </ul>
         </div>
 
@@ -92,9 +92,9 @@
 			<div id="2" style="text-align: center; padding: 8%" class="education">
 				<h1>Education</h1>
 				<p><em style="color: orange">(2021 - Current)</em> National Institute of Technology, Surathkal</p>
-				<p>Master of Technology in Computer Sciene and Engineering - Information Security</p>
+				<p>Master of Technology in Computer Science and Engineering - Information Security</p>
 				<p><em style="color: orange">(2014 - 2018) </em>Mahakal Institute of Technology, Ujjain(M.P.) (RGPV University, Bhopal (M.P.))</p>
-				<p>Bachelor of Engineering in Computer Sciene and Engineering</p>
+				<p>Bachelor of Engineering in Computer Science and Engineering</p>
 			</div>
 			
 			
