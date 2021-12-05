@@ -22,7 +22,7 @@ use this link https://notepad-plus-plus.org/downloads/v8.1.9.2/ to install for 6
 This section contains the personal information and some links to redirect it to those headings.
 for ex:
 -Github, LinkedIn.
--About me, EDucation, Internships, Projects, etc
+-Aboutme, Education, Internships, Projects, etc
 
 
 # Section 2
@@ -31,6 +31,6 @@ Contains the detailed description above headings.
 
 ```
 ## Final Work
-[![resume-link.png](https://i.postimg.cc/ZKpyLSrt/resume-link.png)](https://postimg.cc/BXZ6qRYM)
+[![myresumelink.png](https://i.postimg.cc/cJ5krqhg/myresumelink.png)](https://postimg.cc/Z9pxMM14)
 
 ## Thanks.
